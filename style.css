@@ -1,12 +1,23 @@
 body{background-color: black;}
 
+.luna{background-image: url(./moon.jpg);
+height: 50vh;
+background-size: contain;}
 
-h1,h2,h3,h4,p{color: whitesmoke;}
 
+h1,h2,h3,h4,p{color: white;}
 
-
-
-a{text-decoration: none;
+.nav-link{text-decoration: none;
+    color: white;
 }
+
+.razzo{background-image: url(./missile-2027068_1280.png);
+height: 1000px;
+background-size: contain;}
+
+
+
+/*Font: Orbitron, Jura;
+Color: #2B9DF4;/* 
 
 
