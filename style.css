@@ -2,10 +2,12 @@ body{background-color: black;}
 
 .luna{background-image: url(./moon.jpg);
 height: 50vh;
-background-size: contain;}
+background-size: cover;}
 
 
-h1,h2,h3,h4,p{color: white;}
+h1,h2,h3,h4,p{color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Nova Square', cursive;}
 
 .nav-link{text-decoration: none;
     color: white;
@@ -15,7 +17,12 @@ h1,h2,h3,h4,p{color: white;}
 height: 1000px;
 background-size: contain;}
 
+.celestino{color:#2B9DF4;}
 
+.frecciacol{color:#2B9DF4 ;}
+
+
+.social{color:white;}
 
 /*Font: Orbitron, Jura;
 Color: #2B9DF4;/* 
