@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "black",
+			"path": "."
+		},
+		{
+			"name": "media",
+			"path": "../../../Desktop/Black/media"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "black"
+	}
+}

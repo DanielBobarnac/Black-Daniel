@@ -1,8 +1,9 @@
 body{background-color: black;}
 
-.luna{background-image: url(./moon.jpg);
+.luna{background-image: url(./media/moon.jpg);
 height: 50vh;
-background-size: cover;}
+background-size:cover;
+background-position: 40% 50%;}
 
 
 h1,h2,h3,h4,p{color: white;
@@ -13,9 +14,13 @@ h1,h2,h3,h4,p{color: white;
     color: white;
 }
 
-.razzo{background-image: url(./missile-2027068_1280.png);
-height: 1000px;
-background-size: contain;}
+.navw{background-color: white;
+height: 2px;}
+
+.altezzacustom{height: 80vh;}
+
+.lineab{background-color: #2B9DF4;
+height: 2px;}
 
 .celestino{color:#2B9DF4;}
 
@@ -24,7 +29,57 @@ background-size: contain;}
 
 .social{color:white;}
 
-/*Font: Orbitron, Jura;
-Color: #2B9DF4;/* 
+.marg{margin: 200px;}
 
+.e{color: rgb(234, 234, 234);}
+
+
+.bottone{color: white;
+    height: 40px;
+    width: 100px;
+    padding: 10px;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;}
+
+.topl{height: 10px;
+width: 10px;
+position: absolute;
+top: 0;
+left: 0;
+border-top: 2px solid #2B9DF4;
+border-left:2px solid #2B9DF4;}
+
+.topr{height: 10px;
+    width: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-top: 2px solid #2B9DF4;
+    border-right:2px solid #2B9DF4;}
+
+.botl{height: 10px;
+    width: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-bottom:2px solid #2B9DF4;
+    border-left:2px solid #2B9DF4;}
+
+.botr{height: 10px;
+      width: 10px;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      border-bottom: 2px solid #2B9DF4;
+      border-right:2px solid #2B9DF4;}
+
+
+
+
+
+
+/*Font: Orbitron, Jura;
 
