@@ -29,7 +29,8 @@ height: 2px;}
 
 .social{color:white;}
 
-.marg{margin: 200px;}
+.marg{margin-top: 200px;
+margin-bottom: 200px;}
 
 .e{color: rgb(234, 234, 234);}
 
